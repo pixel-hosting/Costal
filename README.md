@@ -1,0 +1,2 @@
+# Costal
+blacklist
